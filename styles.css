@@ -89,7 +89,7 @@
     width: 15%;
   }
   .profile:hover{
-    width:20%;
+    width:18%;
   }
   .intro {
     animation-duration: 3s;
@@ -120,20 +120,20 @@
     }
   }
   @keyframes example {
-    from {background-color: #FFB6C1;
+    from {background-color: #a8a4a5;
           width: 100%;}
-     to {background-color: #72d5d8;
+     to {background-color: #a4d0d1;
         width: 100%;}
  }
 .hi{
   width: 100%;
   height: 100%;
-  background-color: #99CCCC;
+  background-color:  #a2c1cc;
   animation-name: example;
-  animation-duration: 5s;
+  animation-duration: 3s;
 }
   .hobbies {
-    width: 15%;
+    width: 10%;
   }
   .last{
     align-items: flex-end;
@@ -167,6 +167,7 @@
     background-color: #04AA6D;
     color: white;
  }
+ 
  @media screen and (max-width: 768px){
      .profile {
         width:30%;
