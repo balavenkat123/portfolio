@@ -129,7 +129,7 @@
 .hi{
   width: 100%;
   height: 100%;
-  background-color:  #a2c1cc;
+  background-color:  #a4d0d1;
   animation-name: example;
   animation-duration: 3s;
 }
@@ -145,6 +145,11 @@
   }
   .phn{
     align-items: flex-end;
+  }
+
+  .firstimage1{
+    margin-left: 12%;
+    padding-right: 10%;
   }
   hr{
     border-style: dotted none none;
